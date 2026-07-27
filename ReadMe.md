@@ -40,31 +40,31 @@ Features:
   - Standard error of the mean (SEM)
 
 
-# Circadian Rhythm Analysis
+## Circadian Rhythm Analysis
 
-## Cosinor Analysis
-## Cosine-Kendall Analysis
-## Python-JTK Analysis
-## AR-JTK: Autocorrelation-Aware JTK Analysis
-## Harmonic Cosinor Analysis
-## Continuous Wavelet Transform (CWT)
-## Individual Rhythm Analysis
-## Linear Mixed-Effects Model
-
-
-# Visualization
-
-## Actograms
-## Rhythm Fitting Visualization
+1. Cosinor Analysis
+2. Cosine-Kendall Analysis
+3. Python-JTK Analysis
+4. AR-JTK: Autocorrelation-Aware JTK Analysis
+5. Harmonic Cosinor Analysis
+6. Continuous Wavelet Transform (CWT)
+7. Individual Rhythm Analysis
+8. Linear Mixed-Effects Model
 
 
+## Visualization
+
+1. Actograms
+2. Various rhythm Fitting Visualization
+
+## Developer
 Binbin Wu, Ph.D.
-
 Ja Laboratory
 UF Scripps Institute
-University of Florida
 
+## Version release
 To download the installation package or check version updates, please follow this link: https://github.com/Dr-WUBINBIN/easyClock/releases
 
+## Reference
 Binbin Wu, William Ja. easyClock: a user-friendly desktop application for circadian rhythm analysis and visualization. BMC Bioinformatics 27, 7 (2026). https://doi.org/10.1186/s12859-025-06340-9
 
